@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "file": "public/images/hero-headquarters.jpg",
+    "prompt": "Ultra-photorealistic futuristic corporate AI innovation headquarters with elegant modern architecture, intelligent professionals collaborating around holographic business analytics, floating AI data streams, digital transformation visualization, premium glass buildings, white and blue luxury corporate environment, volumetric daylight, realistic reflections, cinematic composition, ultra-detailed 3D render, Octane Render quality, Unreal Engine 5, ray tracing, global illumination, enterprise branding aesthetic, minimal, clean, premium, 8K, no text, no logos, no cyberpunk, no dark scene."
+  },
+  "about": {
+    "file": "public/images/about-workspace.jpg",
+    "prompt": "Premium modern software engineering company workspace, multicultural team collaborating on AI, cloud architecture, enterprise software, large digital displays, natural daylight, Scandinavian interior, clean desks, luxury office environment, realistic humans, photorealistic, ultra-detailed, cinematic lighting, 8K."
+  },
+  "services": {
+    "ai_automation": {
+      "file": "public/images/services/ai-automation.jpg",
+      "prompt": "Intelligent business automation ecosystem with interconnected workflows, robotic process automation, AI decision engines, cloud data pipelines, enterprise dashboards, clean white and blue environment, floating holographic workflow diagrams, premium technology visualization, realistic, 8K."
+    },
+    "software_development": {
+      "file": "public/images/services/software-development.jpg",
+      "prompt": "Elite software engineers building enterprise applications, multiple large displays with clean UI dashboards, code architecture visualization, collaborative engineering workspace, premium lighting, realistic office, cinematic quality, 8K."
+    },
+    "crm_solutions": {
+      "file": "public/images/services/crm-solutions.jpg",
+      "prompt": "Executive sales and customer relationship management dashboard displayed as elegant floating interface, customer analytics, performance charts, business intelligence, premium blue and white environment, photorealistic 3D visualization, ultra-clean, 8K."
+    },
+    "digital_transformation": {
+      "file": "public/images/services/digital-transformation.jpg",
+      "prompt": "Enterprise business transformation concept showing traditional business evolving into intelligent AI-powered digital ecosystem, futuristic but realistic corporate visualization, cloud infrastructure, connected systems, clean minimal design, luxury lighting, 8K."
+    },
+    "cloud_solutions": {
+      "file": "public/images/services/cloud-solutions.jpg",
+      "prompt": "Massive cloud computing infrastructure represented through elegant floating cloud architecture, secure enterprise networking, modern data centers, blue-white premium visualization, realistic cinematic lighting, Unreal Engine quality, 8K."
+    }
+  },
+  "projects": {
+    "file": "public/images/projects-portfolio.jpg",
+    "prompt": "Diverse portfolio wall showing enterprise websites, analytics dashboards, AI applications, ERP systems, CRM software, educational platforms, automation interfaces, arranged in elegant floating panels, luxury corporate aesthetic, photorealistic, 8K."
+  },
+  "internship": {
+    "file": "public/images/internship-lab.jpg",
+    "prompt": "Young software engineering interns collaborating with senior developers in a premium technology innovation lab, laptops, large displays, AI dashboards, learning environment, modern office, inspiring atmosphere, realistic photography, 8K."
+  },
+  "contact": {
+    "file": "public/images/contact-reception.jpg",
+    "prompt": "Elegant modern corporate reception area with premium architecture, intelligent lighting, minimal luxury design, digital business welcome display, indoor plants, marble flooring, blue-white branding, photorealistic architectural visualization, 8K."
+  },
+  "og_image": {
+    "file": "public/images/og-image.jpg",
+    "prompt": "Enterprise technology company social share image, deep navy and electric blue gradient, abstract AI neural network patterns, premium corporate aesthetic, minimal clean design, professional, 1200x630 aspect ratio, no text, no logos."
+  },
+  "background_abstracts": [
+    "Flowing AI neural networks, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Digital particle waves, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Floating geometric shapes, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Enterprise data visualization, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Blue gradient meshes, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Soft volumetric clouds, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Minimal technology lines, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Glass geometric compositions, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "Cloud computing abstractions, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos.",
+    "AI connection grids, minimal luxury white and blue, high-end corporate, 8K, seamless, no text, no logos."
+  ]
+}
