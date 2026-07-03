@@ -11,13 +11,12 @@ export const siteConfig = {
   location: "Chennai, India",
   businessHours: "Monday – Saturday",
   social: {
-    linkedin: "https://linkedin.com/company/sparkintellect",
-    twitter: "https://twitter.com/sparkintellect",
-    github: "https://github.com/sparkintellect",
-    instagram: "https://instagram.com/sparkintellect",
+    linkedin: "https://linkedin.com/company/sparkintellect.in",
+    twitter: "https://twitter.com/sparkintellect.in",
+    github: "https://github.com",
+    instagram: "https://instagram.com/sparkintellect.in",
   },
 };
-
 export const navLinks = [
   { label: "About", href: "/#about" },
   { label: "Services", href: "/#services" },
